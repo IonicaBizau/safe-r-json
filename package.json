@@ -1,0 +1,42 @@
+{
+  "name": "safe-r-json",
+  "description": "A convenient JSON file reader.",
+  "keywords": [
+    "safe",
+    "r",
+    "json",
+    "a",
+    "convenient",
+    "file",
+    "reader"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "files": [
+    "bin/",
+    "app/",
+    "public/",
+    "lib/",
+    "build/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "scripts/",
+    "cli.js",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/safe-r-json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/safe-r-json/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/safe-r-json#readme"
+}
