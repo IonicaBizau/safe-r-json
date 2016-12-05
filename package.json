@@ -38,5 +38,8 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/safe-r-json/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/safe-r-json#readme"
+  "homepage": "https://github.com/IonicaBizau/safe-r-json#readme",
+  "dependencies": {
+    "r-json": "^1.2.5"
+  }
 }
