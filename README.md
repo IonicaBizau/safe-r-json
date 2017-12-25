@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save safe-r-json
+# Using npm
+npm install --save safe-r-json
+
+# Using yarn
+yarn add safe-r-json
 ```
 
 
@@ -47,7 +51,9 @@ There are few ways to get help:
 
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
+
  3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
 
 
 ## :memo: Documentation
@@ -94,6 +100,7 @@ If you are using this library in one of your projects, add it in this list. :spa
 
 
  - [`bloggify`](https://github.com/Bloggify/Bloggify) (by Bloggify)—We make publishing easy.
+ - [`bloggify-cli`](https://github.com/Bloggify/Bloggify) (by Bloggify)—We make publishing easy.
  - [`bloggify-template-renderer`](https://github.com/Bloggify/template-renderer#readme) (by Bloggify)—The default template renderer for Bloggify.
  - [`bloggify-theme-renderer`](https://github.com/Bloggify/theme-renderer#readme) (by Bloggify)—The default theme renderer for Bloggify.
 
